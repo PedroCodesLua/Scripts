@@ -1,3 +1,4 @@
---[ Scripts
-What? They're just normal Lua Roblox scripts!
-]
+[[--  Scripts
+What? They're just normal Lua Roblox scripts! 
+]]
+end
